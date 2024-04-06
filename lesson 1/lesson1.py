@@ -1,3 +1,5 @@
+# hello world и переменные
+
 print('hello world')
 print('some string')
 
